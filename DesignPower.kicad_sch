@@ -3718,7 +3718,7 @@
 	)
 	(text_box "MOTOR DRIVER CIRCUIT"
 		(exclude_from_sim no)
-		(at 167.64 62.23 0)
+		(at 168.91 64.77 0)
 		(size 115.57 87.63)
 		(stroke
 			(width 0)
@@ -4350,7 +4350,7 @@
 			(uuid "bb22da2f-66f9-4571-b105-2c300a335e2f")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "#PWR04")
 					(unit 1)
@@ -4416,7 +4416,7 @@
 			(uuid "628a0699-043a-45ed-aac8-e3e0badaf07d")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "#PWR03")
 					(unit 1)
@@ -4483,7 +4483,7 @@
 			(uuid "25f63f5b-3fe6-4897-8193-5ff238bad733")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "Rprog1")
 					(unit 1)
@@ -4550,7 +4550,7 @@
 			(uuid "88ba86e6-364e-471c-bae1-d667eeba4d92")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "J1")
 					(unit 1)
@@ -4617,7 +4617,7 @@
 			(uuid "865f553e-2024-402b-9644-aeed2290364d")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "RL1")
 					(unit 1)
@@ -4682,7 +4682,7 @@
 			(uuid "6b50c935-7773-453c-8d66-c1fafbefc68a")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "#PWR017")
 					(unit 1)
@@ -4751,7 +4751,7 @@
 			(uuid "4033c551-362d-4e2b-a0e4-6ef2637c3ef9")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "C6")
 					(unit 1)
@@ -4820,7 +4820,7 @@
 			(uuid "353de10e-4061-4b79-8182-b586205a8879")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "C5")
 					(unit 1)
@@ -4886,7 +4886,7 @@
 			(uuid "cdd2fba6-aa56-4bc1-94ec-0f1f8cf52a9e")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "#PWR07")
 					(unit 1)
@@ -4955,7 +4955,7 @@
 			(uuid "98c5085c-455e-4e93-b225-22444ee2a943")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "C3")
 					(unit 1)
@@ -5022,7 +5022,7 @@
 			(uuid "5525e2b6-c2d6-4f00-a355-437348ec6b74")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "TP5V1")
 					(unit 1)
@@ -5087,7 +5087,7 @@
 			(uuid "1fcd8e47-0626-4149-9cde-2717ec1b8aaa")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "#PWR018")
 					(unit 1)
@@ -5152,7 +5152,7 @@
 			(uuid "746de4a6-01e0-4bdc-9ca6-5db30287b84d")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "#PWR019")
 					(unit 1)
@@ -5221,7 +5221,7 @@
 			(uuid "595a9dd3-3da3-4642-9ca6-d2d2fbe86d2f")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "C4")
 					(unit 1)
@@ -5287,7 +5287,7 @@
 			(uuid "7a37226d-42fb-446e-9ab2-3582bad8a75c")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "#PWR013")
 					(unit 1)
@@ -5355,7 +5355,7 @@
 			(uuid "a0928a95-ebce-49a9-b8fd-1727a2f4e42b")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "#PWR09")
 					(unit 1)
@@ -5425,7 +5425,7 @@
 			(uuid "e74ef5d4-1b50-4761-9524-c8f3fb7e2061")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "D2")
 					(unit 1)
@@ -5492,7 +5492,7 @@
 			(uuid "de0758a2-eff8-45db-be7c-d608a26e3548")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "#PWR010")
 					(unit 1)
@@ -5558,7 +5558,7 @@
 			(uuid "ac0f1fb4-1a6c-4023-856e-f48bc8cf67c6")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "#PWR014")
 					(unit 1)
@@ -5626,7 +5626,7 @@
 			(uuid "8ed57bf1-398b-4c9e-8517-1b39aa1c7190")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "C1")
 					(unit 1)
@@ -5692,7 +5692,7 @@
 			(uuid "21288d89-969e-453c-b372-9bdf902a7b24")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "#PWR02")
 					(unit 1)
@@ -5783,7 +5783,7 @@
 			(uuid "ead1f214-4f53-4c64-9383-849b4d009b7b")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "U3")
 					(unit 1)
@@ -5893,7 +5893,7 @@
 			(uuid "a5dee682-e30b-4f7a-918c-253ae05fb102")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "J2")
 					(unit 1)
@@ -5958,7 +5958,7 @@
 			(uuid "a9c0c7b4-f1e5-4c77-9261-9ab171e5c5e5")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "#PWR016")
 					(unit 1)
@@ -6024,7 +6024,7 @@
 			(uuid "1636c5dd-b67d-4af3-87c9-395f945bd8ce")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "#PWR01")
 					(unit 1)
@@ -6090,7 +6090,7 @@
 			(uuid "d7e425a7-cb2c-435a-860d-3d73ad4f84a2")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "#PWR08")
 					(unit 1)
@@ -6157,7 +6157,7 @@
 			(uuid "73a8cecd-f2d9-4fcf-b879-8a411f3ccf38")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "#PWR011")
 					(unit 1)
@@ -6228,7 +6228,7 @@
 			(uuid "9d05166e-077a-420a-934f-255da2152179")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "SW1")
 					(unit 1)
@@ -6294,7 +6294,7 @@
 			(uuid "adbe008d-3e17-4946-97d6-0fa0717a2a90")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "#FLG01")
 					(unit 1)
@@ -6359,7 +6359,7 @@
 			(uuid "504ff64e-2b58-43c2-a1a3-9df39a15f800")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "TPGND1")
 					(unit 1)
@@ -6429,7 +6429,7 @@
 			(uuid "f4a5fd3c-ca46-44ee-a116-a28c871dfc71")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "C2")
 					(unit 1)
@@ -6497,7 +6497,7 @@
 			(uuid "6a64592e-a06f-4915-a055-31236f342d9a")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "#PWR06")
 					(unit 1)
@@ -6564,7 +6564,7 @@
 			(uuid "51b0abee-6c64-4e79-8488-d8ebbb4c12ac")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "#PWR012")
 					(unit 1)
@@ -6631,7 +6631,7 @@
 			(uuid "ac38a2d2-2a33-4640-a346-9a12c1e14672")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "Rvd2")
 					(unit 1)
@@ -6698,7 +6698,7 @@
 			(uuid "afda46dc-4a67-4989-aea9-338cc2f702da")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "TPB+1")
 					(unit 1)
@@ -6790,7 +6790,7 @@
 			(uuid "3712b3a3-ac13-4c35-b843-56b87842c241")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "U1")
 					(unit 1)
@@ -6881,7 +6881,7 @@
 			(uuid "ce573734-ed7e-4fb4-8326-a4b9797896ec")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "U2")
 					(unit 1)
@@ -6946,7 +6946,7 @@
 			(uuid "ea86fc59-ff59-4296-a70b-6786a41378ce")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "TPBat1")
 					(unit 1)
@@ -7011,7 +7011,7 @@
 			(uuid "dd7e57bf-463a-431d-9d33-886ef0ddfd78")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "#PWR015")
 					(unit 1)
@@ -7078,7 +7078,7 @@
 			(uuid "1fbb1cc7-d1a8-41bb-965c-2a7d3355aece")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "Rvd1")
 					(unit 1)
@@ -7145,7 +7145,7 @@
 			(uuid "a402d919-648a-4597-a8ce-a1da6e61013f")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "RL2")
 					(unit 1)
@@ -7212,7 +7212,7 @@
 			(uuid "fda5acb9-b79e-4996-85fa-4db28237520c")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "#PWR05")
 					(unit 1)
@@ -7278,7 +7278,7 @@
 			(uuid "e280c1fa-6a27-4646-b970-0dcff6746010")
 		)
 		(instances
-			(project "Design"
+			(project "DesignPower"
 				(path "/51210b98-1a01-438f-bcfb-ee9f982115d0"
 					(reference "TPBat2")
 					(unit 1)
