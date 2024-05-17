@@ -129,7 +129,7 @@ int main(void)
     HAL_GPIO_WritePin(LED6_GPIO_Port,LED6_Pin,RESET);
     while(HAL_ADC_PollForConversion(&hadc,5)!= HAL_OK);
     adc_value1 = HAL_ADC_GetValue(&hadc);
-    if(adc_value1<2000) {
+    if(adc_value1<1900) {
       HAL_GPIO_WritePin(LED6_GPIO_Port,LED6_Pin,SET);
     } else {
       HAL_GPIO_WritePin(LED6_GPIO_Port,LED6_Pin,RESET);
@@ -144,7 +144,7 @@ int main(void)
     HAL_GPIO_WritePin(LED5_GPIO_Port,LED5_Pin,RESET);
     while(HAL_ADC_PollForConversion(&hadc,5)!= HAL_OK);
     adc_value2 = HAL_ADC_GetValue(&hadc);
-    if(adc_value2<2200) {
+    if(adc_value2<2000) {
       HAL_GPIO_WritePin(LED5_GPIO_Port,LED5_Pin,SET);
     } else {
       HAL_GPIO_WritePin(LED5_GPIO_Port,LED5_Pin,RESET);
